@@ -1,6 +1,12 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy, Desarrollador Backend</h1>
 
-<img width="979" height="281" alt="Captura de pantalla 2026-04-05 175419" src="https://github.com/user-attachments/assets/8d8c08b2-ed53-4bcf-911a-3d908ddb2d9b" />
+<p align="center">
+    <img 
+        src="./assets/Banner_perfil.png" 
+        width="100%" 
+        alt="Banner de presentación - Desarrollador Backend Java"
+    />
+</p>
 
 <br><br>
 
