@@ -2,7 +2,7 @@
 
 <p align="center">
     <img 
-        src="./assets/Banner_perfil.png" 
+        src="assets/Brown Wood Minimalist Profile LinkedIn Banner (2).png" 
         width="100%" 
         alt="Banner de presentación - Desarrollador Backend Java"
     />
